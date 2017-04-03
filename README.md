@@ -1,0 +1,2 @@
+# CSC591_Project_Text_Classification_Using_EM_And_Semisupervied_Learning
+CSC591 Course Project
