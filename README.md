@@ -58,7 +58,7 @@ For more details and intermediate results, please check the ipython notebooks in
 ## Contributors
 
 * **Shijie Li**  *(email: sli41@ncsu.edu)* 
-* **Yifan Guo** *(yguo14@ncsu.edu)*
+* **Yifan Guo** *(email: yguo14@ncsu.edu)*
 
 ## Acknowledgments
 
