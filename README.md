@@ -44,7 +44,7 @@ ipython notebook
 ```
 The semi-supervised EM Naive Bayes class in python script is called inside experiment codes. Most of our code are recorded in ipython notebook cells. This notebook can be executed cell by cell in sequential order, or execute all at once using the Kernel starter. And the results will be visualized in images shown below the corresponding cells. 
 
-### Expected Results
+## Expected Results
 
 The result is to improve the multi-class text classification accuracy by semi-supervised EM Naive Bayes classifier given both labeled and unlabeled documents.
 
