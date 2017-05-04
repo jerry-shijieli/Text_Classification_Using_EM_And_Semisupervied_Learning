@@ -17,6 +17,7 @@ sklearn
 nltk==3.1
 wordcloud
 matplotlib
+seaborn
 ```
 * Note _nltk v3.2_ may have issue with stemming functions.
 
