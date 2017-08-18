@@ -56,10 +56,10 @@ The result is to improve the multi-class text classification accuracy by semi-su
 For more details and intermediate results, please check the ipython notebooks in the folder [code](https://github.com/jerry-shijieli/Text_Classification_Using_EM_And_Semisupervied_Learning/tree/master/code)
 
 
-## Contributors
+<!---## Contributors
 
 * **Shijie Li**  *(email: sli41@ncsu.edu)* 
-* **Yifan Guo** *(email: yguo14@ncsu.edu)*
+* **Yifan Guo** *(email: yguo14@ncsu.edu)* -->
 
 ## Acknowledgments
 
